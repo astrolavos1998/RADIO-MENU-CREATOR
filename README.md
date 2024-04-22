@@ -1,4 +1,14 @@
-RADIO MENU CREATOR 1.4
+RADIO MENU CREATOR 1.5
+
+   NEW:
+      - Graphical environment.
+      - Options menu for ALL, BLUE, and RED COALITION.
+	  - Remove for local and now all missionCommands is for global.
+	  - Now you can remove from Radio Menu Commands, or Submenu or all the Μenu, use in DO SCRIP the below:
+	       missionCommands.removeItem(x1)
+		   missionCommands.removeItemForCoalition(coalition.side.BLUE, c1)
+		   missionCommands.removeItemForCoalition(coalition.side.RED, c1)
+	  - Show all Formula.
 
 Easy way to create your own radio menus for everyone, blue and red.
 You don't need anything extra to load into the Mission Editor.
@@ -26,4 +36,4 @@ Happy mission editing. :)
 
 
 _______________________________
-LockOn Greece    =GR= Astr0
+LockOn Greece       =GR= Astr0
