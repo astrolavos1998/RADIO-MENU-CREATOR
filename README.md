@@ -2,7 +2,7 @@ RADIO MENU CREATOR
 
 Easy way to create your own radio menus for ALL, BLUE and RED COALITION.
 
-NEW 10.07.2024 ver 1.6:
+NEW 10.07.2024 ver 1.6: ====================================================== DOWNLOAD FROM HERE ===>
 * Fixed and now it can accept alphanumeric name in flag.
 * Fixed and now it can accept 0 as value in flag.
 	  
