@@ -1,8 +1,8 @@
 Easy way to create your own radio menus for ALL, BLUE and RED COALITION.
    
 NEW 10.07.2024 ver 1.6:
-	Fixed and now it can accept alphanumeric name in flag.
-	Fixed and now it can accept 0 as value in flag.
+-Fixed and now it can accept alphanumeric name in flag.
+-Fixed and now it can accept 0 as value in flag.
 
 NEW 13.03.2024 ver 1.5:
 	Graphical environment.
