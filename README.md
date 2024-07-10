@@ -9,7 +9,7 @@ NEW 13.03.2024 ver 1.5:
 	Options menu for ALL, BLUE, and RED COALITION.
  	Remove for local and now all missionCommands is for global.
   	Now you can remove from Radio Menu Commands, or Submenu or all the Μenu, use in DO SCRIP the below:
-   		missionCommands.removeItem(sm1)
+   		missionCommands.removeItem(sm1)	
      		missionCommands.removeItemForCoalition(coalition.side.BLUE, c1)
        		missionCommands.removeItemForCoalition(coalition.side.RED, c1)
 	Show all Formula.
