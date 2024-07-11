@@ -1,4 +1,5 @@
-RADIO MENU CREATOR
+-= RADIO MENU CREATOR =-
+
 
 Easy way to create your own radio menus for ALL, BLUE and RED COALITION.
 
@@ -18,7 +19,7 @@ NEW 13.03.2024 ver 1.5:
 
 Easy way to create your own radio menus for ALL, BLUE and RED COALITION.
 You don't need anything extra to load into the Mission Editor.
-Tested to work in LibreOffice and MS Office.
+Tested to work in OnlyOffice, LibreOffice and MS Office.
 First you enter "1" for BLUE Coalition or "2" for RED Coalition or nothing / empty for ALL. In the areas with yellow color you allow, you put the elements of the menu, sub-menus and commands. Then creates a script code, which you copy/paste into a DO SCRIPT in the DCS mission editor.
 That's it.
 
