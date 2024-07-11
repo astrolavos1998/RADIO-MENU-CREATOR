@@ -24,5 +24,5 @@ First you enter "1" for BLUE Coalition or "2" for RED Coalition or nothing / emp
 That's it.
 
 
-
-LockOn-Greece   |   Copyright 2024 © by =GR= Astr0 
+___
+Lock-On Greece     ®Copyright© 2024   by   =GR= Astr0
