@@ -3,6 +3,9 @@
 
 Easy way to create your own radio menus for ALL, BLUE and RED COALITION.
 
+NEW 10.07.2024 ver 1.7:
+* Fixed a bag at submenu.
+
 NEW 10.07.2024 ver 1.6:
 * Fixed and now it can accept alphanumeric name in flag.
 * Fixed and now it can accept 0 as value in flag.
@@ -20,9 +23,11 @@ NEW 13.03.2024 ver 1.5:
 Easy way to create your own radio menus for ALL, BLUE and RED COALITION.
 You don't need anything extra to load into the Mission Editor.
 Tested to work in OnlyOffice, LibreOffice and MS Office.
-First you enter "1" for BLUE Coalition or "2" for RED Coalition or nothing / empty for ALL. In the areas with yellow color you allow, you put the elements of the menu, sub-menus and commands. Then creates a script code, which you copy/paste into a DO SCRIPT in the DCS mission editor.
+First you enter "1" for BLUE Coalition or "2" for RED Coalition or nothing / empty for ALL.
+In the areas with yellow color you allow, you put the elements of the menu, sub-menus and commands.
+Then creates a script code, which you copy/paste into a DO SCRIPT in the DCS mission editor.
 That's it.
 
 
-___
+_____________________________________________________________________________________________________
 Lock-On Greece     ®Copyright© 2024   by   =GR= Astr0
